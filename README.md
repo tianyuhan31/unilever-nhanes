@@ -1,7 +1,7 @@
 # Unilever- Explore the National Health and Nutrition Examination Survey
 
 ### Group members Name UNI 
-- Tianyu Han th2987 (Team captain)
+- Tianyu Han th2987 (Coordinator)
 - Ying Hong yh3538
 - Shiyuan Xu sx2311
 - Xinran Chen xc2660
@@ -26,8 +26,9 @@ With the goal of understanding skin diseases, we explored datasets from the Nati
 
 **Directory tree**
 ```
+├── F23_Unilever_exploreNHANES_1st_report.pdf
 ├── F23_Unilever_exploreNHANES_final_report.pdf
-├── F23_Unilever_exploreTheNHANES_1st_report.docx
+├── README.md
 ├── Weekly_Presentations
 │   ├── Meeting 10_10- Reproduction of a Reference Paper.pptx
 │   ├── Meeting 10_18- Preliminary Ideas _ Findings.pptx
