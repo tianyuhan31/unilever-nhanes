@@ -51,13 +51,11 @@ With the goal of understanding skin diseases, we explored datasets from the Nati
 │   └── image_classifier_v1.ipynb
 ├── machine_learning_models
 │   ├── 0304_models
-│   │   ├── derm_2003_imputation.ipynb
 │   │   └── derm_2023.ipynb
 │   ├── aggregated_data_models
 │   │   ├── data_augmentation.ipynb
 │   │   ├── manual feature selection.docx
-│   │   ├── ml_model_self_reporting.ipynb
-│   │   └── vitamin_d_e_distri.ipynb
+│   │   └── ml_model_self_reporting.ipynb
 │   └── nhanes_data
 │       ├── data_0304
 │       │   ├── CRP.XPT
@@ -105,6 +103,7 @@ With the goal of understanding skin diseases, we explored datasets from the Nati
 └── paper_reimplementation
     ├── paper_rep_eda.ipynb
     └── paper_rep_regression.ipynb
+
 ```
 
 
